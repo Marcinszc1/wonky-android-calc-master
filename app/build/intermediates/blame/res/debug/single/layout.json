@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "I:\\Android\\wonky-android-calc-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "I:\\Android\\wonky-android-calc-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "I:\\Android\\wonky-android-calc-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "I:\\Android\\wonky-android-calc-master\\app\\src\\main\\res\\layout\\splash.xml"
+    }
+]

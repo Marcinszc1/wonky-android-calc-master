@@ -1,0 +1,7 @@
+#Fri Jul 28 21:56:58 CEST 2017
+base.0=I\:\\Android\\wonky-android-calc-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_56f4d142afe6ca7a5d53f2301c2bdfe679ac08b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=I\:\\Android\\wonky-android-calc-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_003cd4a054aebe9e3249c287fae5b28809257ce7\\classes.dex
+base.1=I\:\\Android\\wonky-android-calc-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_003cd4a054aebe9e3249c287fae5b28809257ce7
+file.0=I\:\\Android\\wonky-android-calc-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_56f4d142afe6ca7a5d53f2301c2bdfe679ac08b1\\classes.dex
